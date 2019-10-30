@@ -1,0 +1,40 @@
+html
+{
+/*    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    widht: 100px;
+*/    background-color: black;
+}
+
+body
+{
+//    background-color: red;
+}
+
+#board
+{
+    display: grid;
+//    background-color: green;
+    height: fit-content;
+//    width: fit-content;
+    margin-left: 25%;
+    position: relative;
+}
+
+.btn
+{
+    height: 70px;
+    width: 70px;
+}
+
+.type1Btn
+{
+    background-color: green;
+}
+
+.type2Btn
+{
+}
