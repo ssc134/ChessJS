@@ -1,4 +1,9 @@
 function printHello()
 {
-    alert("Hello");
+    console.log("Hello World");
+}
+
+function initializeBoard()
+{
+    
 }
